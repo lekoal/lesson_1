@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">lesson_1</string>
+    <string name="pushMe">push me</string>
 </resources>
