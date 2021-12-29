@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">lesson_1</string>
+    <string name="button1">task 5a</string>
+    <string name="button2">task 5b</string>
+    <string name="button3">task 5c</string>
+    <string name="text1">my text 1</string>
+    <string name="text2">my text 2</string>
 </resources>
